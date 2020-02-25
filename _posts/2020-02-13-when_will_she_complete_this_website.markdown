@@ -2,7 +2,7 @@
 layout: post
 title:  "Work In Progress... Again"
 date:   2020-02-13 16:00:00
-categories: mediator feature
+categories:
 tags: 
 # image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 # image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG

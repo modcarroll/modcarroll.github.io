@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Morgan Langlais"
 description: > # this means to ignore newlines until "email:"
-   Software Developer and Customer Success Manager at IBM
+   Software Developer and Customer Success Manager at IBM (I, like my website, am a work in progress)
 
 email: morgandlanglais@gmail.com
 #blog logo
@@ -41,25 +41,25 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
   - icon:	github
     url:	https://github.com/modlanglais
     desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+    share_url: 
+    share_title: 
+    share_link: 
+
+  - icon:	facebook
+    url:	
+    desc:	
+    share_url: https://www.facebook.com/sharer/sharer.php
+    share_title: 
+    share_link: ?u=
 
   - icon:	linkedin
     url:	https://www.linkedin.com/in/morganlanglais
     desc:	Link up on LinkedIn
-    share_url:
-    share_title:
-    share_link:
+    share_url: https://www.linkedin.com/sharing/share-offsite/
+    share_title: 
+    share_link: ?url=
 
 theme: jekyll-theme-cayman

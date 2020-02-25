@@ -73,6 +73,17 @@
               <hr>
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
+            <section>
+              <script src="https://web-chat.global.assistant.watson.cloud.ibm.com/loadWatsonAssistantChat.js"></script>
+              <script>
+                window.loadWatsonAssistantChat({
+                  integrationID: "17f09ad7-fa36-4b8e-9a57-abe0b24794c2",
+                  region: "us-south"
+                }).then(function(instance){
+                  instance.render();
+                });
+              </script>
+             </section>
           </div>
           {{/post}}
           <div class="isRight">
