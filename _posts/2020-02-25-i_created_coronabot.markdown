@@ -4,6 +4,7 @@ title:  "Novel CoronaBot"
 date:   2020-02-25 14:42:11
 categories: feature
 tags: 
+comments: true
 image: /assets/article_images/coronavirus-cdc-banner.jpg
 ---
 Yes, another bot.
