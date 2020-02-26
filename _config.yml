@@ -9,7 +9,6 @@ description: > # this means to ignore newlines until "email:"
    Software Developer and Customer Success Manager at IBM (I, like my website, am a work in progress)
 
 email: morgandlanglais@gmail.com
-#blog logo
 logo: "/assets/images/ml_logo.jpg"
 float_logo: true # true, false (default)
 
@@ -24,11 +23,7 @@ paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
-#used to display twitter cards
 twitter_handle: '@zephyr3c33'
-
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
 
 google_analytics: 159138432-1
 
@@ -61,5 +56,15 @@ social:
     share_url: https://www.linkedin.com/sharing/share-offsite/
     share_title: 
     share_link: ?url=
+
+  - icon:	instagram
+    url:	https://www.instagram.com/modlanglais/
+    desc:	
+    share_url: 
+    share_title: 
+    share_link: 
+
+  - icon: youtube
+    url: https://www.youtube.com/channel/UCUVGe5tXAPQaqan3WNga5yg
 
 theme: jekyll-theme-cayman

@@ -5,8 +5,9 @@ permalink: /contact/
 image: /assets/images/stars-timelapse.jpg
 ---
 
+WhatsApp: <a href="https://wa.me/15125169759"><img src="/assets/images/whatsapp-logo.png" style="vertical-align: bottom"></a>
 
-Use this form to contact me:
+or use this form to e-mail me:
 
 <form action="https://formcarry.com/s/w2rlURHkDfyK" method="POST" accept-charset="UTF-8">
 <table>
@@ -23,11 +24,16 @@ Use this form to contact me:
     <td><input type="text" name="lastName" size="40"></td>
   </tr>
     <tr>
-    <td>Message: </td>
-    <td><textarea name="message" rows="10" cols="39">Type your message here.</textarea></td>
+    <td style="vertical-align: top">Message: </td>
+    <td><textarea name="message" rows="10" cols="38">Type your message here.</textarea></td>
   </tr>
   <tr>
-    <td><input type="submit" /></td>
+    <td>
+    </td>
+    <td>
+      <input type="reset" style="height:30px; width:112px;" value="Reset" />
+      <input type="submit" style="height:30px; width:112px;"/>
+    </td>
   </tr>
 </table>
 </form>
