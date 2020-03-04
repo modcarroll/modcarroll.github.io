@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Morgan Langlais"
 description: > # this means to ignore newlines until "email:"
-   Software Developer and Customer Success Manager at IBM (I, like my website, am a work in progress)
+   Software Engineer and Data & AI Customer Success Manager at IBM
 
 email: morgandlanglais@gmail.com
 logo: "/assets/images/ml_logo.jpg"
