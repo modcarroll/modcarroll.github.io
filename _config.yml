@@ -67,4 +67,7 @@ social:
   - icon: youtube
     url: https://www.youtube.com/channel/UCUVGe5tXAPQaqan3WNga5yg
 
+  - icon: twitch
+    url: https://www.twitch.tv/zephyr3c33
+
 theme: jekyll-theme-cayman
