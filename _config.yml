@@ -2,9 +2,11 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Site settings
 title: "Morgan Langlais"
+tagline: A place for blogs, dogs, and whatever else I can think of
 description: > # this means to ignore newlines until "email:"
    Software Engineer and Data & AI Customer Success Manager at IBM
 
@@ -21,9 +23,13 @@ author_image: "/assets/images/ml_logo.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://themorgan.io" # the base hostname & protocol for your site
 baseurl: ""
 twitter_handle: '@zephyr3c33'
+
+twitter:
+  username: zephyr3c33
+  card: summary
 
 google_analytics: 159138432-1
 
