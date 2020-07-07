@@ -74,7 +74,7 @@ This will create yet another new field in the left pane (mine is named `coverage
 
 ### Step 7
 
-[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-06.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-07.png)
+[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-07.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-07.png)
 
 To show your field as a percentage, click the ellipses beside the field name in the widget. Select "Format" then click the appropriate display format.
 
@@ -82,7 +82,7 @@ To show your field as a percentage, click the ellipses beside the field name in 
 
 ### Step 8 (Optional - if needed)
 
-[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-06.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-08.png)
+[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-08.png)](/assets/article_images/82020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-08.png)
 
 In some cases, your decimal may be off by a factor off 100. To rectify this, click the ellipses beside your field name and select "Edit calculation." You can then simply add `* 100` to the end of the equation to move the decimal place to the appropriate position.
 
@@ -90,7 +90,7 @@ In some cases, your decimal may be off by a factor off 100. To rectify this, cli
 
 ### Step 9
 
-[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-06.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-09.png)
+[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-09.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-09.png)
 
 If you would like to change the field name for your newly-created field, click the ellipses beside the field name in the data pane and select "Properties."
 
@@ -98,7 +98,7 @@ If you would like to change the field name for your newly-created field, click t
 
 ### Step 10
 
-[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-06.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-10.png)
+[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-10.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-10.png)
 
 You can change the label for your data field here. As you can see, I have named mine "Coverage." Type in your preferred name in the Label field then click "Close."
 
@@ -106,7 +106,7 @@ You can change the label for your data field here. As you can see, I have named 
 
 ### Step 11
 
-[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-06.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-11.png)
+[![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-11.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-11.png)
 
 That's it! Keep in mind that when making calculations on data fields in Cognos Embedded Dashboards the software will create a new field. So you end up creating a new field each step of the way.
 
