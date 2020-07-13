@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Download Applications from IBM Cloud"
+title:  "How to Download Application Code from IBM Cloud"
 date:   2020-07-13 14:05:07
 categories: feature
 tags:
@@ -39,7 +39,7 @@ First you will need to SSH into your application and create a zip file to downlo
 `cf ssh morgans-awesome-app`
 
 ### Step 5
-Your application files will be saved in the `app` folder. Let's create a .zip file containing all of the code:
+Your application files are saved in the `app` folder. Let's create a .zip file containing all of the code:
 `zip -r app.zip app`
 
 ### Step 6
@@ -72,7 +72,7 @@ To format the command which will actually copy your code from IBM Cloud to your 
 
 **INSTANCE-ID:** The instance ID of your application.
 
-**APP-SSH-ENDPOINT:** IBM Cloud application endpoing.
+**APP-SSH-ENDPOINT:** IBM Cloud application endpoint.
 
 **REMOTE-DIRECTORY-TO-FILE:** Directory for the file you would like to download.
 
