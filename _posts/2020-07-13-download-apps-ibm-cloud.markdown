@@ -24,47 +24,35 @@ For the sake of this tutorial, assume my application name is "morgans-awesome-ap
 1. Download the [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html)
 
 2. Login using the CF CLI:
-
 Regular: `cf login`
-
 SSO: `cf login --sso`
-
 Upon logging in, the CLI will prompt you to select the org in which your application lives. Type in the corresponding number and press enter.
 
 3. Optionally, list your applications:
-
 `cf apps`
 
 4. First you will need to SSH into your application and create a zip file to download. Make sure to enter the application name exactly as it was listed in the previous step. `cf ssh` will log you into the app:
-
 `cf ssh morgans-awesome-app`
 
 5. Your application files will be saved in the `app` folder. Let's create a .zip file containing all of the code:
-
 `zip -r app.zip app`
 
 6. Verify that the .zip file was created. Type `ls` and press enter to see a list of all files in the current directory. Here is an example where I can see that my .zip file has been created (app GUID redacted for privacy):
-
 [![](/assets/article_images/ls-example.png)](/assets/article_images/ls-example.png)
 
 7. Exit the SSH session:
-
 `exit`
 
 8. Retrieve the GUID for your application. Make sure to copy and paste this somewhere for later:
-
 `cf app morgans-awesome-app --guid`
 
 9. Retrieve connection information for your app:
-
 `cf curl /v2/info`
 
 10. Get the SSH password:
-
 `cf ssh-code`
 
 11. To format the command which will actually copy your code from IBM Cloud to your Desktop, follow this structure:
-
 `scp -P [PORT-NUMBER] -o User=cf:[GUID]/[INSTANCE-ID] [APP-SSH-ENDPOINT]:[REMOTE-DIRECTORY-TO-FILE] [LOCAL-FILE-DESTINATION]`
 
 **PORT-NUMBER:** Port number for your application.
