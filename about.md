@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/stars-timelapse.jpg
+image: /assets/images/mlanglais.jpg
 ---
 
 # About Me
