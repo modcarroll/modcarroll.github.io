@@ -7,6 +7,9 @@ tags:
 comments: true
 image:
 ---
+
+> Note: It is no longer necessary to follow these steps as the Cognos team has implemented many updates in order to address this and other issues. See the official documentation [here](https://cloud.ibm.com/docs/cognos-dashboard-embedded/index.html).
+
 It's not as simple as you would think.
 
 This article assumes that you have a basic working knowledge of Cognos Embedded Dashboards. If you are not familiar or would like to learn more, check out [the documentation](https://cloud.ibm.com/docs/cognos-dashboard-embedded?topic=cognos-dashboard-embedded-overview_of_cde).
