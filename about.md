@@ -15,10 +15,10 @@ Outside of work, I am an East Texas native (8th generation) but have lived in Au
 
 ## The Dogs
 
-I love dogs and have three of my own: Apollo, Asia, and Mr. Hubble. They are all rescues, and I would highly encourage anyone looking to add a furry member to their family to consider adopting.
+I love dogs and have three of my own: Apollo, Asia, and Mr. Hubble. They are all rescues, and I would highly encourage anyone looking to add a furry member to their family to consider adopting. If you can't adopt, consider donating or volunteering! Since 2012 I have been volunteering as the webmaster for the animal shelter that I adopted two of the dogs from: [www.barctx.org](www.barctx.org)
 
-!["Apollo is 10 years young, and I adopted her when she was only 6 weeks old. She likes to follow me everywhere I go!"](/assets/images/dogs-apollo.jpg)
+!["Apollo was born in 2009, and I adopted her when she was only 6 weeks old. She likes to follow me everywhere I go!"](/assets/images/dogs-apollo.jpg)
 
-!["Mr. Hubble is the most sociable of the three. He even has his own Instagram account: @mrhubble He is 8 years old and was adopted in 2013."](/assets/images/dogs-mrhubble.jpeg)
+!["Mr. Hubble is the most sociable of the three. He even has his own Instagram account: @mrhubble He was born in 2012 and I adopted him in 2013 after he was found roaming the streets."](/assets/images/dogs-mrhubble.jpeg)
 
 !["The newest edition, Asia! My husband and I adopted her in 2019, and as of 2020 she is 12 years young. She loves sleeping and snacking, as we all do."](/assets/images/dogs-asia.png)
