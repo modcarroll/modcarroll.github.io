@@ -5,7 +5,7 @@ gems:
   - jekyll-seo-tag
 
 # Site settings
-title: "Morgan Langlais"
+title: "Morgan Carroll"
 tagline: A place for blogs, dogs, and whatever else I can think of
 description: > # this means to ignore newlines until "email:"
    Software Engineer and Data & AI Customer Success Manager at IBM
@@ -57,14 +57,14 @@ social:
     share_link: ?u=
 
   - icon:	linkedin
-    url:	https://www.linkedin.com/in/morganlanglais
+    url:	https://www.linkedin.com/in/modcarroll
     desc:	Link up on LinkedIn
     share_url: https://www.linkedin.com/sharing/share-offsite/
     share_title: 
     share_link: ?url=
 
   - icon:	instagram
-    url:	https://www.instagram.com/modlanglais/
+    url:	https://www.instagram.com/zephyr3c33/
     desc:	
     share_url: 
     share_title: 
