@@ -10,7 +10,7 @@ tagline: A place for blogs, dogs, and whatever else I can think of
 description: > # this means to ignore newlines until "email:"
    Software Engineer and Data & AI Customer Success Manager at IBM
 
-email: morgandlanglais@gmail.com
+email: modcarroll@gmail.com
 logo: "/assets/images/ml_logo.jpg"
 float_logo: true # true, false (default)
 
@@ -43,7 +43,7 @@ social:
     share_link: "&amp;url="
 
   - icon:	github
-    url:	https://github.com/modlanglais
+    url:	https://github.com/modcarroll
     desc:	Fork me on github
     share_url: 
     share_title: 
