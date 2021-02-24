@@ -17,8 +17,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/dogs-wallpaper.png"
 
-name: 'Morgan Langlais'
-author: 'Morgan Langlais'
+name: 'Morgan Carroll'
+author: 'Morgan Carroll'
 author_image: "/assets/images/ml_logo.jpg"
 
 paginate:	5
@@ -74,6 +74,6 @@ social:
     url: https://www.youtube.com/channel/UCUVGe5tXAPQaqan3WNga5yg
 
   - icon: twitch
-    url: https://www.twitch.tv/zephyr3c33
+    url: https://www.twitch.tv/txzephyrtx
 
 theme: jekyll-theme-cayman

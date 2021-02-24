@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "What... exactly... is a CSM?"
-date:   2020-02-16 12:41:42
+title: "What... exactly... is a CSM?"
+date: 2020-02-16 12:41:42
 tags: csm, ibm
 comments: true
 ---
+
 What Exactly is a CSM?
 
 I often get asked this question. As someone with a computer science degree (soon to be 2), it doesn't sound like a good fit. Isn't a CSM like an account manager? Don't you need a business degree for that? Do you have to sell things?? Let's break it down:
 
-My full title is "Data and AI Customer Success Manager." Before that it was "Technical Customer Sucess Manager." Before that it was "Client Success Manager." Or maybe that was in between the two? Who knows. The point is, that I have gone through a few iterations of being a CSM. When I introduce myself to customers, I usually say, "Hi I'm Morgan Langlais (pronounced lang-less), and I'm a Data and AI Customer Success Manager and Software Developer." That still doesn't answer the question... what exactly is a CSM? I'll rewind even a bit further to get to that.
+My full title is "Data and AI Customer Success Manager." Before that it was "Technical Customer Sucess Manager." Before that it was "Client Success Manager." Or maybe that was in between the two? Who knows. The point is, that I have gone through a few iterations of being a CSM. When I introduce myself to customers, I usually say, "Hi I'm Morgan Carroll, and I'm a Data and AI Customer Success Manager and Software Developer." That still doesn't answer the question... what exactly is a CSM? I'll rewind even a bit further to get to that.
 
 I started at IBM as a software developer on an internal tooling team. We built a CRM (Customer Relationship Management) app for the predecessor to the CSMs, Cloud Adoption Leaders. So back then my full title was "Cloud Adoption Leader Developer" or "CALDev." After an infamous "re-org," I was offered the opportunity to become a Cloud Adoption Leader or continue down the pure software devlopment path that I was on. It was perfect timing for me because I was actually growing tired of coding all day. I craved some kind of social interaction, and I was becoming quite burnt out as a developer after just 9 months of doing it. I think computer science undergrad majors think we are introverts, but when it comes down to it many of us do enjoy interacting with people and not just clacking away at the keyboad all day. Don't get me wrong, I love coding. I could do nothing but code for a few days straight, but after that I need to get back to other people.
 

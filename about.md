@@ -2,10 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/mlanglais.jpg
+image: /assets/images/mcarroll.jpg
 ---
 
 # About Me
+
 <br />
 I am an IBM Customer Success Manager and Software Engineer who specializes in the Watson Data and AI services. I work primarily by leveraging technical skills to enable developers and business users to achieve their desired outcomes using AI.
 
