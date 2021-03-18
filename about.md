@@ -14,6 +14,10 @@ Before joining IBM I worked for [NASA's Columbia Scientific Balloon Facility](ht
 
 Outside of work, I am an East Texas native (8th generation) but have lived in Austin for 3-ish years. My interests include gaming, astronomy, reading, kayaking, women's rights, spending time with my dogs, and trying new restaurants around Austin. Until recently I owned a motorcycle and still consider it to be one of my favorite hobbies.
 
+## Patents
+Coming soon!
+
+
 ## The Dogs
 
 I love dogs and have three of my own: Apollo, Asia, and Mr. Hubble. They are all rescues, and I would highly encourage anyone looking to add a furry member to their family to consider adopting. If you can't adopt, consider donating or volunteering! Since 2012 I have been volunteering as the webmaster for the animal shelter that I adopted two of the dogs from: [www.barctx.org](https://www.barctx.org)
