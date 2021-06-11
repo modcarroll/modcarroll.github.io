@@ -11,4 +11,4 @@ image: /assets/images/stars-timelapse.jpg
 
 [My Goodreads Shelf](https://www.goodreads.com/zephyr3c33)
 
-[Earned Acclaim Badges](https://www.youracclaim.com/users/morgancarroll)
+[Earned Acclaim Badges](https://www.credly.com/users/morgancarroll)
