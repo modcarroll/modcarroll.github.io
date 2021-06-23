@@ -5,9 +5,7 @@ permalink: /contact/
 image: /assets/images/stars-timelapse.jpg
 ---
 
-WhatsApp: <a href="https://wa.me/15125169759"><img src="/assets/images/whatsapp-logo.png" style="vertical-align: bottom"></a>
-
-or use this form to e-mail me:
+Use this form to e-mail me:
 
 <form action="https://formcarry.com/s/w2rlURHkDfyK" method="POST" accept-charset="UTF-8">
 <table>
