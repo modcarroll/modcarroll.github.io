@@ -6,17 +6,21 @@ image: /assets/images/stars-timelapse.jpg
 ---
 ## Articles
 
-<br />
+[*Why UT Tyler Alumna at IBM Credits University for Successful Career* - June 23, 2021](https://www.uttyler.edu/news/articles/2021/alumna-at-ibm/)
 
-*Why UT Tyler Alumna at IBM Credits University for Successful Career* - June 23, 2021
-[https://www.uttyler.edu/news/articles/2021/alumna-at-ibm/](https://www.uttyler.edu/news/articles/2021/alumna-at-ibm/)
+[*CRA Profiles in Computing* - November 16, 2016](https://cra.org/profiles-women-computing-morgan-carroll/)
 
-*CRA Profiles in Computing* - November 16, 2016
-[https://cra.org/profiles-women-computing-morgan-carroll/](https://cra.org/profiles-women-computing-morgan-carroll/)
+<br>
+
+## Videos
+
+[*Open Source is for Everyone, Anyone, Anywhere!* - cdCon, June 24, 2021](https://www.youtube.com/watch?v=1jTtCYMuMNc)
+
+[*UT Tyler Women in Computing Interview* - April 20, 2021](https://www.youtube.com/watch?v=HDfR3Kpgp28)
+
+<br>
 
 ## Miscellaneous Links
-
-<br />
 
 [My Goodreads Shelf](https://www.goodreads.com/zephyr3c33)
 
