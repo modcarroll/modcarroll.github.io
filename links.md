@@ -10,15 +10,11 @@ image: /assets/images/stars-timelapse.jpg
 
 [*CRA Profiles in Computing* - November 16, 2016](https://cra.org/profiles-women-computing-morgan-carroll/)
 
-<br>
-
 ## Videos
 
 [*Open Source is for Everyone, Anyone, Anywhere!* - cdCon, June 24, 2021](https://www.youtube.com/watch?v=1jTtCYMuMNc)
 
 [*UT Tyler Women in Computing Interview* - April 20, 2021](https://www.youtube.com/watch?v=HDfR3Kpgp28)
-
-<br>
 
 ## Miscellaneous Links
 
