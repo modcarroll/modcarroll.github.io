@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "CES 2023 - Top Trends"
+date:   2023-01-11 09:00:00
+categories: feature
+tags:
+comments: true
+image: /assets/article_images/ces-amd.jpeg
+---
+I had the pleasure of attending CES 2023 last week, and I wanted to share with y’all the top 5 trends that I saw!
+
+### Automation
+
+When you think of automation, you likely think of high-tech companies such as IBM, Google, etc., but did you know that John Deere is leading the way in farming innovation? They announced ExactShot, their robotics-based fertilizer system. This allows farmers to more precisely apply fertilizer to the exact spot where a seed is instead of spreading fertilizer over a large area.Also in automation: electronic vehicles of course! Most notably, Sony launched an electric vehicle called Afeela. I did get a chance to see her, and she is slick. BMW also had an incredible keynote featuring their color-changing vehicle.
+
+### Sustainability
+
+Many companies are focused on fighting climate change using technology, so it should come as no surprise that sustainable technology had a key presence this year. For example, Targus revealed a solar-powered keyboard. Simple but effective, right? I’ve already mentioned John Deere, but give Samsung’s Smart City Project a read. They are aiming for net-zero consumption by using the SmartThings Energy app to monitor and adjust energy usage across various devices.
+
+[![](/assets/article_images/ces-razer.jpeg)](/assets/article_images/ces-razer.jpeg)
+
+### 3D printing/creating
+
+Consumer creation was definitely a focal point this year from 3D printers to consumer-created media. I did see a very cool 3D-printed fox, but even more interesting to me was L’Oreal’s Brow Magic applicator. The applicator uses AR technology to scan your face, preview different eyebrow options, then swipe across your brow line to essentially print eyebrow makeup onto your face.
+
+### Metaverse
+
+Everyone is jumping on the Metaverse train! HTC revealed a new headset while a startup called OVR Technology delivered an interesting experience: a wearable device that can deliver scents! Another company revealed gloves that allows the user to “touch” Metaverse items. It’s safe to say that innovations in this space are going to explode this year.
+
+### Health Tech
+
+Withings U-Scan is an at-home urinalysis device that collects urine and tracks different health data points for users. Imagine the implications here for elderly or disabled users who may have trouble getting to the doctor!
+
+### My Favorite
+
+Tech Dev in Low Earth Orbit – An Astronaut’s Perspective from Space. This session focused on the experiments that astronauts perform on the International Space Station and included a LIVE session with two astronauts from space! [Click here](https://youtube.com/shorts/JA7zGEV8SP0?feature=share) to watch a short clip of that.
+
+Overall, my impression of CES is that the novelty was very enjoyable, but if you are looking for more deep technical sessions then refer to company documentation versus attending the sessions. At the end of the day, there was a lot of marketing which does make sense, but I was hoping for more deep content.
