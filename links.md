@@ -12,6 +12,10 @@ image: /assets/images/stars-timelapse.jpg
 
 ## Videos
 
+[What is a Chatbot? - IBM Technology YouTube](https://youtu.be/o9-ObGgfpEk)
+
+[The History of Chatbots - IBM Technology YouTube](https://youtu.be/YnRrdHsV1xE)
+
 [*Open Source is for Everyone, Anyone, Anywhere!* - cdCon, June 24, 2021](https://www.youtube.com/watch?v=1jTtCYMuMNc)
 
 [*UT Tyler Women in Computing Interview* - April 20, 2021](https://www.youtube.com/watch?v=HDfR3Kpgp28)
