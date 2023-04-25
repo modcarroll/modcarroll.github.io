@@ -25,23 +25,11 @@ paginate:	5
 
 url: "http://themorgan.io" # the base hostname & protocol for your site
 baseurl: ""
-twitter_handle: '@zephyr3c33'
-
-twitter:
-  username: zephyr3c33
-  card: summary
 
 google_analytics: 159138432-1
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/zephyr3c33
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
   - icon:	github
     url:	https://github.com/modcarroll
     desc:	Fork me on github
