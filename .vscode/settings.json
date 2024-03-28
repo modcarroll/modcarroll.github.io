@@ -1,0 +1,4 @@
+{
+    "wcaForGP.enable": true,
+    "ansible.python.interpreterPath": "/usr/local/bin/python3.9"
+}

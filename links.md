@@ -2,13 +2,13 @@
 layout: page
 title: Links
 permalink: /links/
-image: /assets/images/stars-timelapse.jpg
+image:
 ---
 ## Articles
 
-[*Why UT Tyler Alumna at IBM Credits University for Successful Career* - June 23, 2021](https://www.uttyler.edu/news/articles/2021/alumna-at-ibm/)
+[Why UT Tyler Alumna at IBM Credits University for Successful Career - June 23, 2021](https://www.uttyler.edu/news/articles/2021/alumna-at-ibm/)
 
-[*CRA Profiles in Computing* - November 16, 2016](https://cra.org/profiles-women-computing-morgan-carroll/)
+[CRA Profiles in Computing - November 16, 2016](https://cra.org/profiles-women-computing-morgan-carroll/)
 
 ## Videos
 
@@ -16,9 +16,9 @@ image: /assets/images/stars-timelapse.jpg
 
 [The History of Chatbots - IBM Technology YouTube](https://youtu.be/YnRrdHsV1xE)
 
-[*Open Source is for Everyone, Anyone, Anywhere!* - cdCon, June 24, 2021](https://www.youtube.com/watch?v=1jTtCYMuMNc)
+[Open Source is for Everyone, Anyone, Anywhere! - cdCon, June 24, 2021](https://www.youtube.com/watch?v=1jTtCYMuMNc)
 
-[*UT Tyler Women in Computing Interview* - April 20, 2021](https://www.youtube.com/watch?v=HDfR3Kpgp28)
+[UT Tyler Women in Computing Interview - April 20, 2021](https://www.youtube.com/watch?v=HDfR3Kpgp28)
 
 ## Miscellaneous Links
 

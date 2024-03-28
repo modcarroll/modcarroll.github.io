@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="teaserimage">
+<!-- <div class="teaserimage">
     <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
         Teaser Image
     </div>
-</div>
+</div> -->
 
 <header class="blog-header">
     {% if site.logo %}
@@ -24,7 +24,6 @@ layout: default
         {% endif %}
       {% endfor %}
       <a href={{ "/about/" | prepend: site.baseurl }}>About&nbsp;&nbsp;·</a>
-      <a href={{ "/contact/" | prepend: site.baseurl }}>&nbsp;&nbsp;Contact&nbsp;&nbsp;·</a>
       <a href={{ "/links/" | prepend: site.baseurl }}>&nbsp;&nbsp;Links</a>
     </div>
 </header>

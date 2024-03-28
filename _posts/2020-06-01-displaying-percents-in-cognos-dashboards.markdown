@@ -112,7 +112,3 @@ You can change the label for your data field here. As you can see, I have named 
 [![](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-11.png)](/assets/article_images/2020-06-01-displaying-percents-in-cognos-dashboards/cognos-percent-11.png)
 
 That's it! Keep in mind that when making calculations on data fields in Cognos Embedded Dashboards the software will create a new field. So you end up creating a new field each step of the way.
-
----
-
-I hope this was helpful, and please feel free to [reach out](http://themorgan.io/contact) if you need any help!

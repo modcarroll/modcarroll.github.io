@@ -8,14 +8,14 @@ gems:
 title: "Morgan Carroll"
 tagline: A place for blogs, dogs, and whatever else I can think of
 description: > # this means to ignore newlines until "email:"
-   Senior Cloud Engineer at IBM, Dog Mom, Tinkerer
+   Senior AI Engineer at IBM, Dog Mom, Tinkerer
 
-email: modcarroll@gmail.com
+email:
 logo: "/assets/images/ml_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/dogs-wallpaper.png"
+cover:
 
 name: 'Morgan Carroll'
 author: 'Morgan Carroll'
@@ -23,7 +23,7 @@ author_image: "/assets/images/ml_logo.jpg"
 
 paginate:	5
 
-url: "http://themorgan.io" # the base hostname & protocol for your site
+url: "http://themorgan.ai" # the base hostname & protocol for your site
 baseurl: ""
 
 google_analytics: 159138432-1
@@ -52,16 +52,16 @@ social:
     share_link: ?url=
 
   - icon:	instagram
-    url:	https://www.instagram.com/themorgan8/
+    url:
     desc:	
     share_url: 
     share_title: 
     share_link: 
 
   - icon: youtube
-    url: https://www.youtube.com/channel/UCUVGe5tXAPQaqan3WNga5yg
+    url:
 
   - icon: twitch
-    url: https://www.twitch.tv/txzephyrtx
+    url:
 
 theme: jekyll-theme-cayman
